@@ -1,2 +1,2 @@
 # PolygonGenerator
-A simple Polygon generator in Javascript
+A polygon generator made with Javascript.
